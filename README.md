@@ -18,8 +18,15 @@ Here are some ideas to get you started:
 
 💼 I'm a data enthusiast currently pursuing Master's in Computer Science.
 
-💡 I’m passionate about leveraging data-driven insights to solve complex problems and drive innovation am passionate about leveraging data-driven insights to solve complex problems and drive innovation. The tools I primarily use are Python, R, SQL, PowerBI, and Google Cloud BigQuery.
+💡 I’m passionate about leveraging data-driven insights to solve complex problems and drive innovation am passionate about leveraging data-driven insights to solve complex problems and drive innovation. 
+
+🛠️ The tools I primarily use are Python, R, SQL, PowerBI, and Google Cloud BigQuery.
+
+🎓 Certifications I carry are Azure Fundamentals – AZ900, Google Cloud Crash Course, Data Science Math Skills - Duke University
 
 🎯 I’m currently working on translating complex Clinical Trials Data into simplified terms to enhancing readability and accessibility to wider audience.
 
 👩🏻 How to reach me: Message me on [LinkedIn]([url](https://www.linkedin.com/in/janani-pradeep/)).
+
+
+
