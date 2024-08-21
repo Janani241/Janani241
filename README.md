@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 💼 I'm a data enthusiast currently pursuing Master's in Computer Science.
 
-💡 I’m interested in analysis and prediction related to product analytics and user experiences. My work typically focuses on A/B (hypothesis) testing, predictive analytics, reporting & insights, and defining new metrics. The tools I primarily use are Python, R, SQL, PowerBI, and Google Cloud BigQuery.
+💡 I’m passionate about leveraging data-driven insights to solve complex problems and drive innovation am passionate about leveraging data-driven insights to solve complex problems and drive innovation. The tools I primarily use are Python, R, SQL, PowerBI, and Google Cloud BigQuery.
 
 🎯 I’m currently working on translating complex Clinical Trials Data into simplified terms to enhancing readability and accessibility to wider audience.
 
