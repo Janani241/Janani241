@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 🎯 I’m currently working on translating complex Clinical Trials Data into simplified terms to enhancing readability and accessibility to wider audience.
 
-👩🏻 How to reach me: Message me on [LinkedIn]([url](https://www.linkedin.com/in/janani-pradeep/)).
+👩🏻 How to reach me: Message me on [LinkedIn](https://www.linkedin.com/in/janani-pradeep/).
 
 
 
