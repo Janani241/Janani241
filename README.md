@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 💡 I’m passionate about leveraging data-driven insights to solve complex problems and drive innovation am passionate about leveraging data-driven insights to solve complex problems and drive innovation. 
 
-🛠️ The tools I primarily use are Python, R, SQL, PowerBI, and Google Cloud BigQuery.
+🛠️ The tools I primarily use are Python, R, SQL, PowerBI, ReactJS and Google Cloud BigQuery.
 
 🎓 Certifications I carry are Azure Fundamentals – AZ900, Google Cloud Crash Course, Data Science Math Skills - Duke University
 
