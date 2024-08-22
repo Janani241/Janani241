@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 
 🎯 I’m currently working on translating complex Clinical Trials Data into simplified terms to enhancing readability and accessibility to wider audience.
 
+👀 Want to know more about me? Click [here]((https://janani241.github.io/)) 👈🏼
+
 👩🏻 How to reach me: Message me on [LinkedIn](https://www.linkedin.com/in/janani-pradeep/).
 
 
