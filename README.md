@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 👋 Hi, I’m Janani Pradeep.
 
-💼 I'm a Data enthusiast with a Master's Degree in Computer Science. 
+💼 I'm a Data & AI enthusiast with a Master's Degree in Computer Science. 
 
 💡 I’m passionate about leveraging data-driven insights integrating Applied AI methodologies to solve complex problems and drive innovation.
 
