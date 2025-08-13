@@ -16,19 +16,17 @@ Here are some ideas to get you started:
 
 👋 Hi, I’m Janani Pradeep.
 
-💼 I'm a data enthusiast currently pursuing Master's in Computer Science.
+💼 I'm a Data enthusiast with a Master's Degree in Computer Science. 
 
-💡 I’m passionate about leveraging data-driven insights to solve complex problems and drive innovation am passionate about leveraging data-driven insights to solve complex problems and drive innovation. 
+💡 I’m passionate about leveraging data-driven insights integrating Applied AI methodologies to solve complex problems and drive innovation.
 
 🛠️ The tools I primarily use are Python, R, SQL, PowerBI, ReactJS and Google Cloud BigQuery.
 
-🎓 Certifications I carry are Azure Fundamentals – AZ900, Google Cloud Crash Course, Data Science Math Skills - Duke University
+🎓 Certifications I carry are Azure Fundamentals – AZ900, Google Cloud Crash Course, Data Science Math Skills from Duke University
 
-🎯 I’m currently working on translating complex Clinical Trials Data into simplified terms to enhancing readability and accessibility to wider audience.
+🎯 I’m currently working on fine-tuning LLMs for translating complex Clinical Trials Data into simplified terms to enhancing readability and accessibility to wider audience.
 
-👀 Want to know more about me? [Click here](https://janani241.github.io/) 👈🏼
-
-👩🏻 How to reach me: Message me on [LinkedIn](https://www.linkedin.com/in/janani-pradeep/).
+👀 Want to reach me or know more about me? [Click here](https://www.linkedin.com/in/janani-pradeep/) 👈🏼
 
 
 
